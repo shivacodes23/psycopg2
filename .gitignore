@@ -1,0 +1,5 @@
+prod.env
+virtualenv
+venv
+*.pyc
+__pycache__
